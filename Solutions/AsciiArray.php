@@ -1,0 +1,8 @@
+<?php
+
+AsciiArray();
+
+function AsciiArray()
+{
+
+}
